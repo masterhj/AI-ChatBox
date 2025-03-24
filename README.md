@@ -205,9 +205,3 @@ REACT_APP_SOCKET_URL=https://chatbox-api-bj21.onrender.com
 
 <a id="contact"> </a>
 
-## Need help?
-
-Feel free to contact me on [Twitter](https://twitter.com/Samarth69908166) or [LinkedIn](https://www.linkedin.com/in/samarth-kadam-119a25209/), know more about me at [samarthkadam.vercel.app](https://samarthkadam.vercel.app/)
-
-
-[![Twitter](https://img.shields.io/badge/Twitter-follow-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/Samarth69908166)
